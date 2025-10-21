@@ -68,6 +68,4 @@ Fan & Community Engagement: Visual storytelling improves engagement of cricket d
 Decision Support: Useful for selectors and analysts studying player reliability patterns.
 
 6. Screenshots / Demos
-
-(Insert dashboard screenshot images here)
-Alt Text Example:
+my dashboard screenshot : https://github.com/Prachi7-Sagar/Virat-kohli-dashboard/blob/main/SCREENSHOT%20OF%20MY%20DASHBOARD.jpg
